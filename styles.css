@@ -1,0 +1,39 @@
+* { box-sizing: border-box; }
+body {
+  background: linear-gradient(#90C3D4, #90D4C3, #90D4A1, #90D4C3, #90C3D4);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #28383D;
+}
+img {
+  max-width: 100%;
+}
+header {
+  background-color: white;
+  padding: .5rem 1rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+header img {
+  max-height: 4rem;
+}
+.profile-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.profile, .filters {
+  max-width: 20rem;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: gray 2px 2px 7px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.filters {
+  width: 90%;
+  max-width: 90%;
+  margin: 1rem auto;
+}
