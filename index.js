@@ -22,5 +22,13 @@ var app = new Vue({
   data: {
     message: 'Hello Vue!',
     alligators: gators
+  },
+  methods: {
+    test: function(){
+      console.log("test was called")
+    },
+    filter: function(){
+      console.log("filter was called")
+    }
   }
 })
