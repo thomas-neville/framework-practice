@@ -18,7 +18,7 @@ var gators = [
     hobbies: "Chomping",
     weight: 480,
     likesIceCream: false,
-    imgSource: "https://www.google.com/search?q=alligator+piano&safe=active&tbm=isch&source=iu&ictx=1&fir=K2t72yMcYa0TAM%253A%252Co9nl3Qbpg6fCSM%252C_&usg=__tpEJnvS56WLdo_GZrmB5xPuK4Hk%3D&sa=X&ved=0ahUKEwi7-cjQ1aHbAhURITQIHYBkDSIQ9QEILTAB#imgrc=K2t72yMcYa0TAM:"
+    imgSource: "https://cdn.drawception.com/images/panels/2012/6-2/cRBZBCGxm9-2.png"
   }
 ]
 
